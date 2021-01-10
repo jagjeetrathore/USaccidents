@@ -6,7 +6,7 @@ are 3.5 million accident records in this dataset. Each accident record is descri
 smoosavi.org
 
 
-* Objectives:
+* Objectives * 
 First Objective of this project was to do exploratory analysis of US Accidents data to determine if external factors like weather precipitation or other environmental stimuli 
 incorporated in the accident's volume or severity. Second Objective was to create machine learning models to do real time predictions., using custom machine learning models.
 I have attempted to solve this problem using two machine learning models: Random Forest and Logistic Regression.
