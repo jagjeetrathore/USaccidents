@@ -16,8 +16,8 @@ overall.
 #### Challenges: 
 Major challenges that I faced before performing analysis and modelling were the data cleansing i.e. taking care of nulls, standardizing data values and data prep i.e.
 converting categorical values to numeric for modelling that was done using String Indexer.
-We took care of nulls by dropping columns with more than ~ 50% of missing data, using mode and/or median values to fill in missing data rows for some important numeric fields.
-Also, I dropped rows for text fields where we were not able to fill in data for those rows and this kind of columns had low number of nulls hence dropping such rows did not 
+I took care of nulls by dropping columns with more than ~ 50% of missing data, using mode and/or median values to fill in missing data rows for some important numeric fields.
+Also, I dropped rows for text fields where I was not able to fill in data for those rows and this kind of columns had low number of nulls hence dropping such rows did not 
 highly impact the volume of data.
 
 #### Exploratory Data Analysis:
